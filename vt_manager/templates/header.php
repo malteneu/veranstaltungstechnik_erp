@@ -3,7 +3,7 @@
 <head>
    <title><?= $site_name ?></title>
    <meta charset="utf-8">
-   <base href="/">
+   <base href="<?= $baseUrl ?>">
    <link rel="stylesheet" href="assets/css/bootstrap.min.css">
    <link rel="stylesheet" href="assets/css/style.css">
    <link rel="stylesheet" href="assets/css/fontawesome.min.css">
